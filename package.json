@@ -1,0 +1,24 @@
+{
+  "name": "PEACH-MSc",
+  "version": "1.0.0",
+  "description": "MDT_API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Hale",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.1",
+    "bookshelf": "^0.8.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "knex": "^0.8.6",
+    "locus": "^1.2.0",
+    "mongoose": "^4.1.11",
+    "morgan": "^1.6.1",
+    "mysql": "^2.9.0"
+  }
+}
